@@ -1,0 +1,8 @@
+## Interface: 20400
+## Title: |cff40ff40Auto|r Guild Message
+## Version: 0.8.2
+## Notes: Automatically sends a predefined, random welcome message to a new guild member from a list of user entered, custom welcome messages.
+## DefaultState: enabled
+## Author: Mayron - Twisting Nether (EU)
+## SavedVariables: GUILD_WELCOME_TEXT, GUILD_CONGRATZ_TEXT
+AutoGuildMessage.lua
