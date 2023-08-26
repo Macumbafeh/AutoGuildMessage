@@ -4,5 +4,9 @@ this version can't display a GZ message since it's based on achievement which do
 
 ![image](https://github.com/Macumbafeh/AutoGuildMessage/assets/47739411/7df86797-2e26-4755-81b4-8635bebe3df4)
 
+## Know issue
+- It send a message when you login
+
+
 ## Original
 https://www.wowinterface.com/downloads/info22855-AutoGuildMessage.html
