@@ -6,11 +6,13 @@ The purpose of this AddOn is to make it look like you are not using an AddOn to 
 
 ## Commands
 `/agm show welcome - Shows the complete list of 10 messages.
+
 `/agm set welcome [1-10] [new message]` - Allows you to replace 1 of the 10 messages to a new predefined message
 
 Note: Do not include square brackets with the slash commands!
 
 __Example slash command__: 
+
 `/agm set welcome 4 welcome man!`
 
 
