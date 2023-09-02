@@ -5,7 +5,7 @@ Allows the user to assign up to 10 random welcome messages where 1 of these mess
 The purpose of this AddOn is to make it look like you are not using an AddOn to welcome new players or congratulate guild members automatically. 
 
 ## Commands
-`/agm show welcome - Shows the complete list of 10 messages.
+`/agm show welcome` - Shows the complete list of 10 messages.
 
 `/agm set welcome [1-10] [new message]` - Allows you to replace 1 of the 10 messages to a new predefined message
 
